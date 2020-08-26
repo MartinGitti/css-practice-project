@@ -5,4 +5,4 @@ Further practice using css styling methods for html page.
 
 Page example 1:
 
-<img src="/screenshots/htmlImage1.JPG" alt="View of HTML page 1">
+<img src="/screenshots-of-page/htmlImage1.JPG" alt="View of HTML page 1">
